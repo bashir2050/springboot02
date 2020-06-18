@@ -15,5 +15,7 @@ public class PatientDetailsDTO implements Serializable{
 	private long contactNo;
 	private String doctor;
 	private int age;
+	
+	int a=15;
 
 }
